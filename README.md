@@ -3,6 +3,8 @@ SolarSystem 🌗
 
 SolarSystem est une page web développée en utilisant HTML, CSS et JavaScript. Elle utilise une API pour vous fournir des informations détaillées sur toutes les planètes du système solaire. Cette page web est une source d'informations complète pour les amoureux de l'astronomie et de l'espace.
 
+stack : HTML, CSS, Javascript, API
+
 Fonctionnalités
 
 - Affiche des images haute résolution de chaque planète
